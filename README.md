@@ -1,0 +1,2 @@
+# .github
+Global health files
